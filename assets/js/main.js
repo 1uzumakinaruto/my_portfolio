@@ -239,3 +239,9 @@
   new PureCounter();
 
 })()
+
+// resume button
+
+function downloadResume() {
+  document.getElementById('download-link').click();
+}
