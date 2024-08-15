@@ -1,4 +1,4 @@
-
+view my portfolio https://ibharatbhushan.netlify.app/
 Hello! I'm Bharat Bhushan, a passionate software developer with a keen interest in full stack development, AI, and IoT. This portfolio showcases some of my key projects and demonstrates my skills in various technologies and programming languages.
 
 
